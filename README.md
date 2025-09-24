@@ -18,7 +18,7 @@
 
 ---
 
-![Project view](https://github.com/bhavani-mhrl/foodie-project/blob/525dd7bd92398b1fe00bb07ef1b48e44e93d76c1/Screenshot%202025-09-24%20104222.png)
+![Project view](https://github.com/bhavani-mhrl/foodie-project/blob/3032d404e324e0b36bb813a19984396bb7421e1b/Screenshot%202025-09-24%20104240.png)
 
 ---
 
