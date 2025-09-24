@@ -43,5 +43,5 @@
 
 🙌 **Thank You!**
 
-👩‍💻 Developed by: BHAVANI MACHARLA (Bhavani-mhrl,RockPaperScissors)
+👩‍💻 Developed by: BHAVANI MACHARLA (Bhavani-mhrl,Foodie-project)
 
