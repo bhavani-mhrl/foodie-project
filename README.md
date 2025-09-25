@@ -2,7 +2,7 @@
 
 ## 📌 **Overview**
 
-- **Built a Frontend Project with some basic Section**
+- **Built a Frontend Project with some layouts using html css**
 
 ## 🚀 **Features**
 - Semantic HTML structure
