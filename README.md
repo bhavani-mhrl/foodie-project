@@ -2,19 +2,20 @@
 
 ## 📌 **Overview**
 
-- **Built a Frontend Project with some layouts using html css**
+- **This project is a visually appealing Foodie-themed landing page crafted using HTML and CSS, designed to showcase delicious dishes, promote food services, or highlight a restaurant brand. It focuses on clean layout, vibrant visuals, and responsive design to deliver user experience.**
 
 ## 🚀 **Features**
-- Semantic HTML structure
-- Clean and organized CSS
-- Custom fonts and icons
-- Cross-browser compatibility
-
+- Eye-catching hero section with bold typography and food imagery
+- Responsive layout optimized for mobile and desktop screens
+- Stylish buttons and hover effects to enhance interactivity
+- Organized content sections for showcasing dishes, chef highlights, or customer reviews
 
 ## 🔑 Why i have built this!
 
-- **Enhnace-Skills** - Enhance Skills To Improve and Strengthen my Front-end skills
-- **Creative Thinking** - To create User friendly Interactive pages 
+- Practice layout structuring and styling with semantic HTML and modern CSS
+- Explore visual hierarchy, color palettes, and typography in UI design
+- Serve as a portfolio piece demonstrating frontend creativity and design skills
+
 
 ---
 
