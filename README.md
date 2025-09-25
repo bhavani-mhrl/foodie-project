@@ -4,6 +4,13 @@
 
 - **Built a Frontend Project with some basic Section**
 
+## 🚀 **Features**
+- Semantic HTML structure
+- Clean and organized CSS
+- Custom fonts and icons
+- Cross-browser compatibility
+
+
 ## 🔑 Why i have built this!
 
 - **Enhnace-Skills** - Enhance Skills To Improve and Strengthen my Front-end skills
@@ -36,8 +43,8 @@
 
 ## 💻 Technologies Used
 
-- **HTML** – Provides the structure and content of the website.
-- **CSS** – Styles the website for an engaging user experience.
+- **HTML5** – Provides the structure and content of the website.
+- **CSS3** – Styles the website for an engaging user experience.
 ---
 
 
